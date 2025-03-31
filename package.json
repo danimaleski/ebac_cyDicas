@@ -1,0 +1,25 @@
+{
+  "name": "ebac_cydicas",
+  "version": "1.0.0",
+  "description": "Dicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimaleski/ebac_cyDicas.git"
+  },
+  "author": "daniella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimaleski/ebac_cyDicas/issues"
+  },
+  "homepage": "https://github.com/danimaleski/ebac_cyDicas#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  },
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  }
+}
